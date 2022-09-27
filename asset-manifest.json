@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/router-dog-finder/static/css/main.073c9b0a.css",
+    "main.js": "/router-dog-finder/static/js/main.2d4c49a3.js",
+    "static/media/hazel.jpg": "/router-dog-finder/static/media/hazel.56f12732a1234fceb49b.jpg",
+    "static/media/whiskey.jpg": "/router-dog-finder/static/media/whiskey.7650f3f2b68e4bebacaa.jpg",
+    "static/media/tubby.jpg": "/router-dog-finder/static/media/tubby.9c06bf82b050f49b0a43.jpg",
+    "index.html": "/router-dog-finder/index.html",
+    "main.073c9b0a.css.map": "/router-dog-finder/static/css/main.073c9b0a.css.map",
+    "main.2d4c49a3.js.map": "/router-dog-finder/static/js/main.2d4c49a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2d4c49a3.js"
+  ]
+}
